@@ -20,10 +20,3 @@
 	•	Matplotlib / Seaborn for visualization
 	•	Jupyter Notebook for interactive analysis
 
-├── data/                 # (not included, requires Online Retail II dataset)
-├── notebooks/            #  analysis
-├── plots/                # Exported figures
-│   ├── Norway_value.png
-│   ├── UK_Norway_time.png
-│   └── UK_Norway.png
-├── README.md             # Project documentation
